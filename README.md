@@ -1,6 +1,7 @@
 # portfolio
 
 ## Link for my portfolio website
+<https://yuri-portfolio.netlify.app/index.html>
 
 
 ## link for my GitHub repo
@@ -16,7 +17,6 @@ This portfolio site is for sharing my work and job hunting. Also, to get good op
 The design of the website is simple and easy to reach information.<br>
 The navigation bar is situated at the top of the page for ease of access from all pages.
 
-### Sitemap
 - Top page<br>
 It seeks to give a simple but impactful impression to the viewers by centralizing a image and texts.<br>
 - About <br>
@@ -27,6 +27,10 @@ Each of my work is set out as a clickable image which interacts with viewers whe
 Vertical orientation for easy navigation with scrolling up and down rather than horizontal orienrtation where clicking or sliding is needed. <br>
 - Contact <br>
 Simple straight forward contact page without any confusion.<br>
+
+### Sitemap
+
+
 
 ### Screenshots
 
