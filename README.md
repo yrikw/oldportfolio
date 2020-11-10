@@ -14,7 +14,7 @@
 This portfolio site is for sharing my work and job hunting. Also, to get good opportunities to work with other developers.
 
 ### Functionality / features
-The design of the website is simple and easy to reach information.<br>
+The design of the website is simple and clean.<br>
 The navigation bar is situated at the top of the page for ease of access from all pages.
 
 - Top page<br>
@@ -22,17 +22,21 @@ It seeks to give a simple but impactful impression to the viewers by centralizin
 - About <br>
 My name, work history, education, skills and profile image and brief written introduction.<br>
 - Portfolio <br>
-Each of my work is set out as a clickable image which interacts with viewers when mouse cursor is hovered over.<br>
+Each of my work is set out as a clickable image which is directly linked to the website.<br>
 - Blog <br>
 Vertical orientation for easy navigation with scrolling up and down rather than horizontal orienrtation where clicking or sliding is needed. <br>
 - Contact <br>
 Simple straight forward contact page without any confusion.<br>
 
 ### Sitemap
-
-
+![Sitemap](docs/portfoliositemap.png)
 
 ### Screenshots
+![index](docs/index.png)
+![about](docs/about.png)
+![portfolio](docs/portfolio.png)
+![blog](docs/blog.png)
+![contact](docs/contact.png)
 
 ### Target Audience
 1. Main audience - Potential web developer employers<br>
