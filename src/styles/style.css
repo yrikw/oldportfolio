@@ -43,11 +43,6 @@ h3:after {
 h3:after {
 	     margin-left: 	1em;
   }
-
-h4 { 
-		font-size: 18px;
-		letter-spacing: 0.3em;
-	}
 	
 footer {  /* text contents 4 */
 	text-align: center;
@@ -122,6 +117,12 @@ main{ /* text contents 2 */
 h2 {
 	font-size: 30px;
 	margin-bottom: 10px;
+	}
+
+	h4 { 
+		text-align: left;
+		font-size: 18px;
+		letter-spacing: 0.3em;
 	}
 
 
@@ -366,15 +367,28 @@ h2 {
 
 /* contact */
 .contact {
-	width: 60%;
+	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center
 }
 
 .contact p {
 	text-align: left;
 	margin: 10px 0  30px 0;
 }
+
+.mail {
+   width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 80px;
+}
+
+.mail button {
+	margin-top: 30px;
+}
+
 
 .box {
     padding: 12px;
@@ -421,7 +435,6 @@ button:hover {
 
 	text-decoration: none;
 }
-
 
 
 /* portfolio */
@@ -628,6 +641,11 @@ button:hover {
 	h3 {
 		width: 100%;
 	}
+
+	h4 { 
+		font-size: 18px;
+		letter-spacing: 0.3em;
+	}
 	
 	main {
 		margin-top: 30px;
@@ -807,6 +825,30 @@ button:hover {
 	}
 
 	 /* contact */
+    .contact {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center
+}
+
+.contact p {
+	text-align: left;
+	margin: 10px 0  30px 0;
+}
+
+.mail {
+   width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 80px;
+}
+
+.mail button {
+	margin-top: 30px;
+}
+
+
 	.contact p {
 		text-align: left;
 		margin: 10px 0  30px 0;
