@@ -42,7 +42,7 @@ Simple straight forward contact page without any confusion.<br>
 
 ### Target Audience
 1. Main audience - Potential web developer employers<br>
-2. Sub audience - Job seekers who are also looking for a web developer job wanting to see what other job seekers are doing.Mbr<
+2. Sub audience - Job seekers who are also looking for a web developer job wanting to see what other job seekers are doing.
 
 ### Tech stack
 1. HTML
