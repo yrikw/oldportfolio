@@ -67,7 +67,7 @@ footer {  /* text contents 4 */
 	opacity: 0.5;
 	}
 
-nav { /* text contents 3 */
+nav { /* text contents 1 */
 	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
@@ -192,7 +192,7 @@ h2 {
 		text-decoration: none;
 	}
 
-.toptext { /* text contents 3 */
+.toptext { 
 	letter-spacing: 3px;
 	width: 300px;
 	font-size: 16px;
@@ -320,7 +320,7 @@ h2 {
 	font-size: 20px;
 }
 
-.blogpost { /* graphical content 1 */
+.blogpost { /* graphical contents 1 */
 	width: 60%; 
 	float: left;
 	margin-bottom: 50px;
@@ -888,7 +888,7 @@ button:hover {
 		margin: 2%;
 	  }
 	  
-	 .image { /* graphical contents 4 */
+	 .image { 
 		opacity: 1;
 		display: block;
 		width: 100%;
@@ -957,7 +957,7 @@ button:hover {
 
 	 }
 	 
-	.image { /* graphical contents 4 */
+	.image { 
 	   opacity: 1;
 	   display: block;
 	   width: 100%;

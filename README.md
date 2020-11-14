@@ -4,7 +4,7 @@
 <https://yuri-portfolio.netlify.app/index.html>
 
 
-## link for my GitHub repo
+## Link for my GitHub repo
 <https://github.com/yrikw/portfolio>
 
 
