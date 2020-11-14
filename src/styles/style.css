@@ -23,7 +23,7 @@ form {
 
 
 h3 {
-	font-family: 'Herr Von Muellerhoff', cursive;
+	    font-family: 'Herr Von Muellerhoff', cursive;
 		font-size: 30px;
 		letter-spacing: 0.3em;
 		padding: 10px;
@@ -37,11 +37,8 @@ h3 {
 h3:after {
 	    border-top: 2px solid;
 	    content: "";
-	    width: 5em; 
-  }
-  
-h3:after {
-	     margin-left: 	1em;
+		width: 5em; 
+		margin-left: 	1em;
   }
 	
 footer {  /* text contents 4 */
@@ -132,29 +129,6 @@ h2 {
 	width: 90%;
 	position: relative;            
 	 } 
-
-.welcome {
-	font-family: 'Herr Von Muellerhoff', cursive;
-	font-size: 30px;
-	letter-spacing: 0.3em;
-    display: flex;
-	align-items: center;
-	justify-content: center; 
-	position: fixed;
-	top: 10%;
-	left: 1%;
-	transform: rotate(90deg);
-  }
-
-.welcome:before {
-	    border-top: 2px solid;
-	    content: "";
-	    width: 5em; 
-  }
-  
-.welcome:before {
-	     margin-right: 	1em;
-  }
 
 .topbutton {
 	color: #0a065d;
@@ -507,7 +481,7 @@ button:hover {
 		display: none;
 	}
 	
-	/*menuコンテンツ*/
+	/* menu */
 	.cp_fullscreenmenu .menu {
 		position: fixed;
 		top: 0;
@@ -552,7 +526,7 @@ button:hover {
 	.cp_fullscreenmenu .menu ul li a:hover {
 		color: white;
 	}
-	/*クリックしたらメニューが開閉の動作*/
+	/* click */
 	.cp_fullscreenmenu #toggle:checked ~ .menu {
 		visibility: visible;
 		opacity: 0.8;
@@ -577,6 +551,9 @@ button:hover {
 	.cp_fullscreenmenu #toggle:checked ~ .menu ul li:nth-child(4) {
 		transition: all 0.3s cubic-bezier(0.6, 0, 0.8, 1.5) 0.4s;
 	}
+	.cp_fullscreenmenu #toggle:checked ~ .menu ul li:nth-child(5) {
+		transition: all 0.3s cubic-bezier(0.6, 0, 0.8, 1.5) 0.4s;
+	}
 	.cp_fullscreenmenu #toggle:checked + label.hamburger .bar {
 		background-color: white;
 	}
@@ -595,7 +572,7 @@ button:hover {
 	
 	}
 	
-	/*ハンバーガー*/
+	/* hamburger */
 	.cp_fullscreenmenu .hamburger {
 		position: fixed;
 		top: 10px;
