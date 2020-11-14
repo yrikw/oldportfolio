@@ -1,0 +1,234 @@
+commit d15c297b86e183351362d6604c0f9d8a43329d7b
+Merge: c11ba36 fb990ee
+Author: yrikw <you@example.com>
+Date:   Sat Nov 14 13:28:34 2020 +1100
+
+    Merge branch 'main' of https://github.com/yrikw/portfolio into main
+
+commit c11ba369d5ce3bab33a6865fcab43cac680dcfb6
+Author: yrikw <you@example.com>
+Date:   Sat Nov 14 13:28:18 2020 +1100
+
+    final
+
+commit fb990ee61d08044df1cfc1a86db319d4537ae6bf
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Sat Nov 14 12:32:55 2020 +1100
+
+    Update README.md
+
+commit 30a26d209ce3a10900136dee14f5e5ecaf0ec247
+Merge: 53746bc 94cb060
+Author: yrikw <you@example.com>
+Date:   Sat Nov 14 12:28:23 2020 +1100
+
+    14 commits
+
+commit 53746bc56d68c640aae4ee75b1baa034950bb79e
+Author: yrikw <you@example.com>
+Date:   Sat Nov 14 12:26:57 2020 +1100
+
+    14 commits
+
+commit 94cb060dfce32837881dd1b9271f16713548f770
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Sat Nov 14 12:25:49 2020 +1100
+
+    Update README.md
+
+commit 29701ccbcfdda0cf09d26983b2e1818f94e11a8e
+Merge: 76831eb b58123f
+Author: yrikw <you@example.com>
+Date:   Sat Nov 14 12:04:38 2020 +1100
+
+    Merge branch 'main' of https://github.com/yrikw/portfolio into main
+
+commit 76831eb2a80432a00ac7fb01bf4eef91ff16675e
+Author: yrikw <you@example.com>
+Date:   Sat Nov 14 12:04:04 2020 +1100
+
+    13 commits
+
+commit b58123fd7894fe6f6a480965c56e1337b810daf2
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Fri Nov 13 17:03:20 2020 +1100
+
+    Add files via upload
+
+commit ff75b24ef283fae5aa6208a72159807e2cfac37e
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Thu Nov 12 18:42:05 2020 +1100
+
+    Add files via upload
+
+commit 69b8774f912c84b7e65b63bb1cfa63c0f4bddc6a
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Thu Nov 12 18:41:45 2020 +1100
+
+    Delete contact.png
+
+commit 6bb2c381b3345f5699e44d75bc63746c37b7c224
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Thu Nov 12 18:41:08 2020 +1100
+
+    Add files via upload
+
+commit fff01a4b89b38ddea087506eabe1c3b20a764adc
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Thu Nov 12 18:39:33 2020 +1100
+
+    Update README.md
+
+commit 35820e074b5186031cb6800a43173c0e034858b4
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Thu Nov 12 18:38:14 2020 +1100
+
+    Update README.md
+
+commit 2552e7b509b149382ae340a9b65779a1260a3648
+Merge: aa29fd8 c171134
+Author: yrikw <you@example.com>
+Date:   Thu Nov 12 18:36:35 2020 +1100
+
+    Merge branch 'main' of https://github.com/yrikw/portfolio into main
+
+commit aa29fd83e29063d32b6e4ad8b2d4ed1efbe4dbbf
+Author: yrikw <you@example.com>
+Date:   Thu Nov 12 18:33:55 2020 +1100
+
+    12 commits
+
+commit c171134b9c3e1418cb91f0c81451857f3da80e26
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Thu Nov 12 17:36:14 2020 +1100
+
+    Update README.md
+
+commit b703511fcec1d33739e76436aa84dd856a41442b
+Author: yrikw <you@example.com>
+Date:   Thu Nov 12 17:35:47 2020 +1100
+
+    eleventh comit
+
+commit 983bededddefab0f360453e75746d1499366378b
+Merge: 2d085da 6ae39bf
+Author: yrikw <you@example.com>
+Date:   Thu Nov 12 17:17:03 2020 +1100
+
+    Merge branch 'main' of https://github.com/yrikw/portfolio into main
+
+commit 2d085daecb559d895e9395a7119be61adad7012a
+Author: yrikw <you@example.com>
+Date:   Thu Nov 12 17:10:10 2020 +1100
+
+    tenth commit
+
+commit 6ae39bf1dcf6cdb4e6bd23dcd51a3e9be0675f39
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Thu Nov 12 09:04:00 2020 +1100
+
+    Update README.md
+
+commit 9c764406362f5dc6971304af6b882901979c1d65
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Thu Nov 12 09:00:05 2020 +1100
+
+    Add files via upload
+
+commit aa8d2910e8a5f5e8aca50551fce8f531fa36cbe9
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Tue Nov 10 16:14:13 2020 +1100
+
+    Update README.md
+
+commit 17a05bc7cf99358ddb51961c83c0ee876ccf3a15
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Tue Nov 10 15:57:26 2020 +1100
+
+    Add files via upload
+
+commit 9b160957f7521d0b8459701f3384dcb168c90fd4
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Tue Nov 10 15:39:28 2020 +1100
+
+    Update README.md
+
+commit 0e677456c15a58f86a7cbb6bbaa141ae263ae4c5
+Author: yrikw <you@example.com>
+Date:   Tue Nov 10 14:39:27 2020 +1100
+
+    ninth commit
+
+commit 7901109bca3f61e0f76b7e8dfeaa9ec25dfd47ae
+Author: yrikw <you@example.com>
+Date:   Tue Nov 10 00:56:29 2020 +1100
+
+    eighth commit
+
+commit 310d6e30ef8c1f294a43b93787768d285500b24a
+Author: yrikw <you@example.com>
+Date:   Tue Nov 10 00:39:18 2020 +1100
+
+    seventh commit
+
+commit fcac88eb923d688878e3e60996d8275b41b5420a
+Merge: 85c340b 1d32307
+Author: yrikw <you@example.com>
+Date:   Tue Nov 10 00:12:32 2020 +1100
+
+    Merge branch 'main' of https://github.com/yrikw/portfolio into main
+    change
+
+commit 85c340b5218e04a81684e79c7887f00179677218
+Author: yrikw <you@example.com>
+Date:   Tue Nov 10 00:02:14 2020 +1100
+
+    sixth commit
+
+commit 1d32307aac87550e8477e658708147d051367996
+Author: Yuri <41004461+yrikw@users.noreply.github.com>
+Date:   Sun Nov 8 22:00:56 2020 +1100
+
+    Create README.md
+
+commit 09e8e0192aab3801c36d5324ea84ab02ab2b826f
+Author: yrikw <you@example.com>
+Date:   Sat Nov 7 23:08:24 2020 +1100
+
+    fifth commit
+
+commit 1624fe785af24ebf9238c153da93b5f36ac6cd00
+Author: yrikw <you@example.com>
+Date:   Sat Nov 7 12:27:00 2020 +1100
+
+    fourth commit
+
+commit e2f20293645cd15c897973a6036b6de5af4f15ac
+Author: yrikw <you@example.com>
+Date:   Sat Nov 7 02:34:41 2020 +1100
+
+    third commit
+
+commit 7e16288049220844c8bc24c4ea32a04e78209c25
+Author: yrikw <you@example.com>
+Date:   Thu Nov 5 22:28:58 2020 +1100
+
+    second commit
+
+commit 729c1ea320af4929ce88f108f0a56850ddb7f662
+Author: yrikw <you@example.com>
+Date:   Thu Nov 5 11:21:40 2020 +1100
+
+    first commit
+
+commit 2abc85c40c99cd28bdd180fff23d92116fbfd778
+Author: yrikw <you@example.com>
+Date:   Thu Nov 5 11:16:48 2020 +1100
+
+    fisrt commit
+
+commit 92ebb824d92be5d053b9a07bab0f6cc855528ed1
+Author: 井川裕梨 <you@example.com>
+Date:   Thu Nov 5 11:07:27 2020 +1100
+
+    first commit
