@@ -37,9 +37,8 @@ Simple straight forward contact page without any confusion.<br>
 ![portfolio](docs/portfolio.png)
 ![blog](docs/blog.png)
 ![contact](docs/contact.png)
-![wireframe](docs/contact-wireframe.png)
-![wireframe](docs/topcontact.png)
-![wireframe](docs/portfolioblog.png)
+![wireframe](docs/wireframe.png)
+
 
 ### Target Audience
 1. Main audience - Potential web developer employers<br>
